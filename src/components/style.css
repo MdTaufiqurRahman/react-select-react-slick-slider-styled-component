@@ -1,0 +1,23 @@
+.styles{
+    margin-top: 20px;
+}
+.styles img{
+    height: 350px;
+    width: 250px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.slick-arrow{
+    color: black;
+}
+
+.slick-prev{
+    z-index: 100;
+    left: 20px !important;
+}
+
+.slick-next{
+    z-index: 100;
+    right: 20px !important;
+}
